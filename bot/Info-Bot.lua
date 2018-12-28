@@ -1,11 +1,11 @@
-bot_token = "306529020:AAGfePjiCZLwhR4F-kDo2JA-F6WV1TH5I7w" -- توکن رباتُ
-channel_username = '@ap576' -- یوزر القناة
-channel_inline = 'ap576' -- @ یوزر القناة بدون
-sudo_username = '@somegone' -- یوزر صاحب البوت
-gp_sudo = -1001166025624 -- ایدی قروب التطوير
-SUDO = 779837045 -- ایدی صاحب البوت
-BotMaTaDoR_id = 779837045 --ایدی بوت cli
-BotMaTaDoR_idapi = 306529020 -- ایدی بوت api
+bot_token = "756032831:AAFQxCYvO0BD5OGsdeNHPIjqEW_S3VnFl9M" -- توکن رباتُ
+channel_username = '@batrx' -- یوزر القناة
+channel_inline = 'batrx' -- @ یوزر القناة بدون
+sudo_username = '@llDevII' -- یوزر صاحب البوت
+gp_sudo = -1001268700860 -- ایدی قروب التطوير
+SUDO = 472688602  -- ایدی صاحب البوت
+BotMaTaDoR_id = 560485102 --ایدی بوت cli
+BotMaTaDoR_idapi = 756032831 -- ایدی بوت api
 RedisIndex = '2' -- رقم الریدیس
 EndPm = " ツ"
 --######################################################################--
