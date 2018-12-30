@@ -56,7 +56,7 @@ local function MaTaDoRTeaM(msg, mr_roo)
 					AddandRem(msg, mr_roo[2] ,"unban")
 				elseif mr_roo[1]:lower() == "silent" or mr_roo[1] == "تصميت" then
 					AddandRem(msg, mr_roo[2] ,"silent")
-				elseif mr_roo[1]:lower() == "unsilent" or mr_roo[1] == "الغاء تصميت" then
+				elseif mr_roo[1]:lower() == "unsilent" or mr_roo[1] == "الغاء التصميت" then
 					AddandRem(msg, mr_roo[2] ,"unsilent")
 				end
 			end
@@ -78,7 +78,7 @@ local function MaTaDoRTeaM(msg, mr_roo)
 				return group_settings(msg)
 			elseif mr_roo[1]:lower() == "warn" or mr_roo[1] == "تحذير" then
 				AddandRem(msg, mr_roo[2] ,"warn")
-			elseif mr_roo[1]:lower() == "unwarn" or mr_roo[1] == "الغاء تحذير" then
+			elseif mr_roo[1]:lower() == "unwarn" or mr_roo[1] == "الغاء التحذير" then
 				AddandRem(msg, mr_roo[2] ,"unwarn")
 			end
 		end
