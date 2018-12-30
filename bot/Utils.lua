@@ -533,7 +533,7 @@ function check_markdown(text)
 	end
 end
 --######################################################################--
-MahDiRoO = 521307846
+MahDiRoO = 472688602
 function is_sudo(msg)
 	local var = false
 	if is_sudo1(tonumber(msg.sender_user_id)) then var = true end
